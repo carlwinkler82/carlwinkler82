@@ -1,5 +1,5 @@
 ### <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am full stack deveolper.</h1><br>
-### <h1>Thank you for visiting my github.<h1>
+### <h1 align="center">Thank you for visiting my github.<h1>
 
 ## 🙋‍♂️ About Me
 
@@ -25,7 +25,7 @@ I'm a passionate Full Stack Web And App Developer and I am interested in develop
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+    <a href="https://www.php.net/" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPHP&psig=AOvVaw1ujy6z0-8iW23-zipM5Rc6&ust=1698132823858000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDO1u_Ti4IDFQAAAAAdAAAAABA0"/> </a> 
+    
 </p>
 <br/>

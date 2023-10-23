@@ -1,7 +1,7 @@
 
 # I am developer
 <img src="https://komarev.com/ghpvc/?username=Carl Winkler82&style=flat-square&color=blue" alt=""/>
-I'd like to tell you a little about myself. I have been working in my specialty for 6 years.
+I'd like to tell you a little about myself. I have been working in my specialty for 8 years.
 I'm a developer who knows the value of time, works very hard, and always provides work on time, and prove myself with great skills. I always think that when both clients and developers trust each other, the project can succeed, and also think that if an excellent developer, has to own wide-knowledge.
 My skills will be updated go on and I will try to prepare myself to become a top developer continuously. 
 
